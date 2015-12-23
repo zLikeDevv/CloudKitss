@@ -1,0 +1,23 @@
+name: AlienPvP
+main: alien.gaming.principal.Main
+author: zLikeDevv
+version: 1.0
+commands:
+   pvp:
+   phantom:
+   sonic:
+   kangaroo:
+   mago:
+   click:
+   chat:
+   admin:
+   togglepvp:
+   hulk:
+   spawn:
+   setspawn:
+   tag:
+   ninja:
+   banir:
+   thor:
+   efeito:
+   deleff:
